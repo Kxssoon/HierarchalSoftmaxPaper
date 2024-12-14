@@ -165,9 +165,9 @@ Regular Softmax Execution Time: 12.36 seconds
 Hierarchical Softmax Execution Time: 10.39 seconds
 ```
 
-##### Plot
+##### Plots
 
-![[Pasted image 20241213205855.png]]
+![](Plots.png)
 
 ### Breakdown and Analysis
 
